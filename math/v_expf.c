@@ -5,7 +5,7 @@
  * SPDX-License-Identifier: MIT
  */
 
-#include "mathlib.h"
+#include "include/mathlib.h"
 #include "v_math.h"
 #if V_SUPPORTED
 
